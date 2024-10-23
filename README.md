@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/70fd855f-419f-411a-a00d-337b0a60fc1e)# EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
