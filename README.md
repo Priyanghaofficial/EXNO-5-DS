@@ -193,4 +193,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/ff7e2e4c-319e-40d8-8c6b-4f4d5db43adb)
 
 # Result:
- Include your result here
+Thus the program to Perform Data Visualization using matplot python library for the given datas is been implemented.
